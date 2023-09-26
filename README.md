@@ -41,6 +41,8 @@ The app should include the following features:
     > python3 Crowd-Funding.py
     If you're using windows
     > python Crowd-Funding.py
-    
+
+## Screenshots
+![](./images/1)
 ## Developer
 [Zyad M. Tawfik](https://www.linkedin.com/in/zyad-m-tawfik/)
