@@ -43,7 +43,6 @@ The app should include the following features:
     > python Crowd-Funding.py
 
 ## Screenshots
-https://github.com/Ziad-Tawfik/Crowd-Funding-App/blob/main/Images/1.png
-![Alt text](./Images/1.png)
+![Alt text](/Images/1.png)
 ## Developer
 [Zyad M. Tawfik](https://www.linkedin.com/in/zyad-m-tawfik/)
