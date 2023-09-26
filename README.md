@@ -31,5 +31,13 @@ The app should include the following features:
   - User can delete his own project
   - User can search for a project using date
 
+## To start Crowd-Funding-Project
+
+1. Navigate to the directory Bash_DBMS
+2. Install the required packages using below script
+    > pip install -r requirements.txt
+3. Run the project
+    > python3 Crowd-Funding.py
+    
 ## Developer
 [Zyad M. Tawfik](https://www.linkedin.com/in/zyad-m-tawfik/)
