@@ -40,10 +40,12 @@ The app should include the following features:
   ```
 4. Run the project using python3, make sure that you've python 3 installed
     If you're using linux
+
       ```Shell
         python3 Crowd-Funding.py
       ```
     If you're using windows
+
       ```Shell
         python Crowd-Funding.py
       ```
