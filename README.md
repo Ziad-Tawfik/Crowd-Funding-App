@@ -35,8 +35,10 @@ The app should include the following features:
 
 1. Navigate to the directory Bash_DBMS
 2. Install the required packages using below script
-    > pip install -r requirements.txt
-3. Run the project using python3, make sure that you've python 3 installed
+  '''Python
+   pip install -r requirements.txt
+  '''
+4. Run the project using python3, make sure that you've python 3 installed
     If you're using linux
     > python3 Crowd-Funding.py
     If you're using windows
